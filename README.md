@@ -16,7 +16,7 @@
     - [Textures]
       - Icon.jpeg
       - Icon.jpeg.kra
-      - MenuBackground.jpeg
+      - MenuBackground.jpg
     - [User]
       - nothing
 6. read the **INFO.md** file
