@@ -9,7 +9,7 @@
 > `mkdir Contents/src && cd src && mkdir main/code && mkdir main/Resources && mkdir main/Resources/Textures && mkdir main/Resources/User`
 5. now you will add the game Files to there assigned directories.
    - [src]
-     - README.md
+     - INFO.md
    - [src/main/code
      - Stardust.java
    - [src/main/Resources]
