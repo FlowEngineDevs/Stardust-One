@@ -74,7 +74,14 @@ public class Stardust extends Canvas implements Runnable {
         public boolean PlayClicked, LockerClicked, SettingsClicked, StoreClicked;
 
         public Menu() {
-            s.addMouseListener(new MouseListener() {
+           
+        }
+
+        public void setup(Stardust s, JFrame f) {
+            this.s = s;
+            this.f = f;
+		
+	    s.addMouseListener(new MouseListener() {
 
                 @Override
                 public void mouseClicked(MouseEvent e) {
@@ -127,11 +134,6 @@ public class Stardust extends Canvas implements Runnable {
 					
 				}
             });
-        }
-
-        public void setup(Stardust s, JFrame f) {
-            this.s = s;
-            this.f = f;
         }
 
         public void tick() {
