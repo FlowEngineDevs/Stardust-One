@@ -20,7 +20,7 @@
 
 
 To Startup the Game enter this code:
-> cd ~/Stardust/Contents/src/main/code && javac Stardust.java && Stardust.java
+> cd ~/Stardust/Contents/src/main/code && javac Stardust.java && java Stardust.java
 
 You should see a message in your terminal that says: 
 > Starting Stardust...
