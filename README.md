@@ -19,4 +19,4 @@
       - MenuBackground.jpeg
     - [User]
       - nothing
-6. read the **README.md** file
+6. read the **INFO.md** file
